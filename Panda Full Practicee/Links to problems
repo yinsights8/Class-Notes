@@ -1,0 +1,23 @@
+https://www.kaggle.com/code/icarofreire/pandas-24-useful-exercises-with-solutions
+
+- functions excersis
+https://towardsdatascience.com/pandas-in-practice-64be9228062a
+
+
+
+2. Objective
+Let us consider you just joined a startup as a data analyst and you have been assigned to support the team to drive insights about the customers base. Your manager shared the dataset and here is your opportunity to showcase your python skills and use the Pandas package to perform the analysis.
+
+This tutorial will help you to develop and use Pandas knowledge to:
+
+1- import and read a CSV file
+
+2- generate a basic understanding of a given data
+
+3- select and filter data based on conditions
+
+4- apply various data operation tools such as creating new variables or changing data types
+
+5- perform data aggregation using group by and pivot table methods
+
+6- transform analytical insights into business recommendations.

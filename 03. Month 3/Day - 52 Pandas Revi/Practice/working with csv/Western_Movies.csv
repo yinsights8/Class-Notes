@@ -1,0 +1,10 @@
+,star_rating,title,content_rating,genre,duration,actors_list
+0,7.6,High Plains Drifter,R,Western,105,"[u'Clint Eastwood', u'Verna Bloom', u'Marianna Hill']"
+1,7.9,The Outlaw Josey Wales,PG,Western,135,"[u'Clint Eastwood', u'Sondra Locke', u'Chief Dan George']"
+2,8.1,High Noon,PG,Western,85,"[u'Gary Cooper', u'Grace Kelly', u'Thomas Mitchell']"
+3,8.1,Rio Bravo,NOT RATED,Western,141,"[u'John Wayne', u'Dean Martin', u'Ricky Nelson']"
+4,8.3,For a Few Dollars More,APPROVED,Western,132,"[u'Clint Eastwood', u'Lee Van Cleef', u'Gian Maria Volont\xe9']"
+5,8.3,Unforgiven,R,Western,131,"[u'Clint Eastwood', u'Gene Hackman', u'Morgan Freeman']"
+6,8.5,Django Unchained,R,Western,165,"[u'Jamie Foxx', u'Christoph Waltz', u'Leonardo DiCaprio']"
+7,8.6,Once Upon a Time in the West,PG-13,Western,175,"[u'Henry Fonda', u'Charles Bronson', u'Claudia Cardinale']"
+8,8.9,"The Good, the Bad and the Ugly",NOT RATED,Western,161,"[u'Clint Eastwood', u'Eli Wallach', u'Lee Van Cleef']"

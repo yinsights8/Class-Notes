@@ -1,0 +1,22 @@
+## 1. FeatureSelection Techniques
+
+1. Chi2
+	
+      from sklearn.feature_selection import chi2, SelectKBest
+
+      chi_squared, p_value = chi2(x_df,y)
+
+      row = {"Features":x_df.columns,
+             "Chi_2":chi_squared, 
+             "p_value":p_value}
+
+      chi_df = pd.DataFrame(row)
+      chi_df.sort_values("Chi_2", ascending=False)
+
+
+
+2. SelectKBest
+
+    best_fea = SelectKBest(chi2,k=8)
+    kbest = best_fea.fit_transform(x,y)
+    np.array(df.drop(columns=['isFraud']).columns)[best_fea.get_support()]

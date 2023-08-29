@@ -1,0 +1,11 @@
+- 1. Problem Statement
+- 2. Data Gatherning (CSV,Excel,Images,Videos,PDF,Text,JSON etc)
+- 3. Exploratory Data Analysis (EDA) (Pandas,Numpy,Matplotlib,Seaborn) >> We mostly spend 70% time in EDA
+- 4. Feature Engineering (Scaling,We need to handle Outliers)
+- 5. Feature Selection (We can keep the Required Features to train the model, Correlation)
+- 6. Model Building / Training (Linear Regression,Logistic Regression,DT,RF,AdaBoost,KNN,SVM,Naive Bayes)
+- 7. Model Evaluation (MSE, MAE, R2Score, classification Report,Confusion Matrix, Accuracy)
+- 8. Project Deployment (AWS, Microsoft Azure, GCP, Herokku)
+        - a. Cloud / Instance Creation - Using EC@ Service
+        - b. Python and dependencies  - Required files and libraries
+        - c. App configuration - Running app/main/interface files
